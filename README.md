@@ -72,6 +72,10 @@ They are like the vESC board but with a different software and hardware. They ar
 They are very complex to use, you need to write code and be sure he work. It can be dangerous to use a code if you’re not sure about it. But with this solution, the skateboard is completly personnalised and open source.
 If you use it, you need an ESC circuit. It's just a circuit board that controls the power of the battery according to the data sent by the Arduino or the Raspberry pi.
 
+You can find some projects with arduino and raspberry pi like these :
+- [https://www.youtube.com/watch?v=2WLEur3M8Yk&t=1s](https://www.youtube.com/watch?v=2WLEur3M8Yk&t=1s)
+- [https://www.youtube.com/watch?v=yER6Ck32J5w](https://www.youtube.com/watch?v=yER6Ck32J5w)
+
 ### Battery
 
 It’s LiPo Battery. They need to be 5000mAh (Or 5Ah) and almost 20V to 40V. They can be purchased pre-built or you can do it yourself with some little LiPo cells.
@@ -85,6 +89,9 @@ Prefer the Li-Po battery with the hightest capacity and with the most cells.
 The controller control the speed of the skateboard. There are several types of them you can purchase but you can build your own.
 
 The communicate with the ESC with Radio, Bluetooth, Wires or sometimes Wifi. 
-You can use every controller like TV Remote or Wiimote to control your skateboard and some peoples have build their own and publicate their work on web.
+You can use every controller like Xbox controller or Wiimote to control your skateboard and some peoples have build their own and publicate their work on web.
+
+You can find some projects with arduino and raspberry pi like this:
+- https://www.youtube.com/watch?v=ik0lJ54-LWc
 
 # Software
