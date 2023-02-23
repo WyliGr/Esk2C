@@ -1,5 +1,7 @@
 # Esk2C - Electric Skateboard
 
+**How to Build One ?**
+
 > Open-Source Electric Skateboard / Longboard affordable for everyone
 > 
 
@@ -35,10 +37,56 @@ The use of two In-Wheel motors is preferable for this system unlike the pulley-m
 | --- | --- |
 | In-Wheel Motor | Can be found in many colors and seizes on differents sites like here : http://www.diyeboard.com/hub-motor-8352mm-450w-75kv-for-diy-electric-skateboard-p-536.html?zenid=ka8sls2lth4h54md18q2bsi2i0 |
 
-### Electronic
+## Electronic
 
 Some electronic is required to use the electric skateboard. 
 
 | Component | Item |
 | --- | --- |
-| In-Wheel Motor |  |
+| ESC | Electronic Speed Controller. The most common board is a pre-built vESC board or simple ESC Board for E-Skateboards. This board can be build with a raspberry pi or an Arduino but it’s more complex to realize.
+The ESC depends of the battery capacity and motors. |
+| Battery | The most common battery used is LiPo cells with 5000mAh minimum.
+The battery can be composed by multiple cells and it’s indicated with a number and the letter “s” or “p” (Serie or Parallel connection) . Prefer the battery with the most cells. |
+| Controller | A lot of ESC boards have a controller provided. However, you can buy some differents controllers, build yours or just take a video game console controller (like the wii nunchuck). You can find many communication protocol used by controllers. 2.4GHz Radio, Wired, Bluetooth or Wifi. |
+
+### ESC
+
+Electronic Speed Controller. This board regulates the electricity emitted by the batteries to change the speed of the skateboard according to the signal emitted by the remote control. It is a composant that tends to heat up and needs to be cooled.
+
+You need to choose one and be careful about the battery and motors support.
+There are many ESC solutions :
+
+- vESC with vesc software
+- ESC Board
+- Arduino with ESC circuit
+- Raspberry Pi with ESC circuit
+
+**vESC**
+
+They are most professional boards and use a specific software but are very expensives. They are not too complex to use and have a big users community.
+
+**ESC Boards**
+
+They are like the vESC board but with a different software and hardware. They are not too expensive.
+
+**Arduino and Raspberry ESC**
+
+They are very complex to use, you need to write code and be sure he work. It can be dangerous to use a code if you’re not sure about it. But with this solution, the skateboard is completly personnalised and open source.
+If you use it, you need an ESC circuit. It's just a circuit board that controls the power of the battery according to the data sent by the Arduino or the Raspberry pi.
+
+### Battery
+
+It’s LiPo Battery. They need to be 5000mAh (Or 5Ah) and almost 20V to 40V. They can be purchased pre-built or you can do it yourself with some little LiPo cells.
+
+The cells form several cell packs and are connected in series or in parallel. It is indicated by a letter (”s” or “p”) after a number that indicates the number of cells.
+
+Prefer the Li-Po battery with the hightest capacity and with the most cells.
+
+### Controller
+
+The controller control the speed of the skateboard. There are several types of them you can purchase but you can build your own.
+
+The communicate with the ESC with Radio, Bluetooth, Wires or sometimes Wifi. 
+You can use every controller like TV Remote or Wiimote to control your skateboard and some peoples have build their own and publicate their work on web.
+
+# Software
