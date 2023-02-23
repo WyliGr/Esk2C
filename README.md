@@ -45,8 +45,7 @@ Some electronic is required to use the electric skateboard.
 | --- | --- |
 | ESC | Electronic Speed Controller. The most common board is a pre-built vESC board or simple ESC Board for E-Skateboards. This board can be build with a raspberry pi or an Arduino but it’s more complex to realize.
 The ESC depends of the battery capacity and motors. |
-| Battery | The most common battery used is LiPo cells with 5000mAh minimum.
-The battery can be composed by multiple cells and it’s indicated with a number and the letter “s” or “p” (Serie or Parallel connection) . Prefer the battery with the most cells. |
+| Battery | The most common battery used is LiPo cells with 5000mAh minimum. The battery can be composed by multiple cells and it’s indicated with a number and the letter “s” or “p” (Serie or Parallel connection) . Prefer the battery with the most cells. |
 | Controller | A lot of ESC boards have a controller provided. However, you can buy some differents controllers, build yours or just take a video game console controller (like the wii nunchuck). You can find many communication protocol used by controllers. 2.4GHz Radio, Wired, Bluetooth or Wifi. |
 
 ### ESC
