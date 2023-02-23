@@ -20,11 +20,10 @@ A motor drives a Belt which drives a wheel. It is an apparent system located und
 
 | Component | Item Specifications |
 | --- | --- |
-| Motor | The motor must be a brushless motor. The power can vary and be calculated according to the desired maximum speed. The motors can be purchased on different specialized sites (https://www.mboards.co/collections/electric-skateboard-motors) or suppliers such as aliexpress.  The most common motors for electric skatboard projects are 200Kv brushless motors. The use of two motors instead of one does not increase the maximum speed but allows a faster speed increase |
+| Motor | The motor must be a brushless motor. The power can vary and be calculated according to the desired maximum speed. The motors can be purchased on different specialized sites (https://www.mboards.co/collections/electric-skateboard-motors) or suppliers such as aliexpress.  The most common motors for electric skatboard projects are almost 200Kv brushless motors. The use of two motors instead of one does not increase the maximum speed but allows a faster speed increase |
 | Belt | The belt seize depend your pulley, your mount and your wheel gear. It need to be purchased and you can’t do it yourself. Available in several sites and in all sizes like here : https://www.mboards.co/collections/pulleys-and-mounts |
 | Motor Pulley | Can be Printed in 3D if the motor is not too heavy and the speed not too high. If you print it, do not use PLA and use a heat resistant material such as carbon filament. https://www.thingiverse.com/thing:2337126 Can be purchased on differents sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
-| Wheel Pulley | The size varies according to the diameter of your wheel. Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament. https://www.thingiverse.com/thing:2337126
-Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
+| Wheel Pulley | The size varies according to the diameter of your wheel. Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament. https://www.thingiverse.com/thing:2337126 Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
 | Motor Mount | Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament https://www.thingiverse.com/thing:2429445/files Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
 
 ### In-Wheel Motors
