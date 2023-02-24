@@ -28,7 +28,7 @@ A motor drives a Belt which drives a wheel. It is an apparent system located und
 | Wheel Pulley | The size varies according to the diameter of your wheel. Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament. https://www.thingiverse.com/thing:2337126 Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
 | Motor Mount | Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament https://www.thingiverse.com/thing:2429445/files Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
 
-Attention, be careful to the compatibility of the trucks with the motor support and do not take wheels completely filled with plastic but with holes where you can screw the pulley.
+Caution, be careful to the compatibility of the trucks with the motor support and do not take wheels completely filled with plastic but with holes where you can screw the pulley.
 
 ### In-Wheel Motors
 
