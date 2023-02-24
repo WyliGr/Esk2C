@@ -74,7 +74,7 @@ If you use it, you need an ESC circuit. It's just a circuit board that controls 
 
 You can find some projects with arduino and raspberry pi like these :
 - [https://www.youtube.com/watch?v=2WLEur3M8Yk&t=1s](https://www.youtube.com/watch?v=2WLEur3M8Yk&t=1s)
-- [https://www.youtube.com/watch?v=yER6Ck32J5w](https://www.youtube.com/watch?v=yER6Ck32J5w)
+- https://www.youtube.com/watch?v=cYdv3y90FEM&t=616s
 
 ### Battery
 
