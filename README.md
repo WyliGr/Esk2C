@@ -28,6 +28,8 @@ A motor drives a Belt which drives a wheel. It is an apparent system located und
 | Wheel Pulley | The size varies according to the diameter of your wheel. Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament. https://www.thingiverse.com/thing:2337126 Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
 | Motor Mount | Can be Printed in 3D. If you print it, do not use PLA and use a heat resistant material such as carbon filament https://www.thingiverse.com/thing:2429445/files Can be purchased on many sites like here : https://www.mboards.co/collections/pulleys-and-mounts |
 
+Attention, be careful to the compatibility of the trucks with the motor support and do not take wheels completely filled with plastic but with holes where you can screw the pulley.
+
 ### In-Wheel Motors
 
 The motor is directly integrated to the rear wheels. This system is more aesthetic because you can't see the engine. However, the rear wheels are more complicated to change and the engine can be complicated to change in case of breakage or to improve without changing the whole wheel.
@@ -74,7 +76,7 @@ If you use it, you need an ESC circuit. It's just a circuit board that controls 
 
 You can find some projects with arduino and raspberry pi like these :
 - [https://www.youtube.com/watch?v=2WLEur3M8Yk&t=1s](https://www.youtube.com/watch?v=2WLEur3M8Yk&t=1s)
-- https://www.youtube.com/watch?v=cYdv3y90FEM&t=616s
+- [https://www.youtube.com/watch?v=cYdv3y90FEM&t=616s](https://www.youtube.com/watch?v=cYdv3y90FEM&t=616s)
 
 ### Battery
 
@@ -94,4 +96,17 @@ You can use every controller like Xbox controller or Wiimote to control your ska
 You can find some projects with arduino and raspberry pi like this:
 - https://www.youtube.com/watch?v=ik0lJ54-LWc
 
-# Software
+## Casing
+
+All the elctronic need to be protected and stored. The Casing can be purchased on many stores, can be 3D printed or you can do it yourself with plastic box, wood and more. If you print one, you can use PLA but you can reinforce it with Epoxy glue to make it “waterproof” if you drive when it rain.
+
+A casing need a place to put the On/Off ESC Button, the charging port, the battery indicator and why not a button On/Off for the Battery too.
+
+## And More …
+
+Some “add-ons” and accesories can be added tou your skateboard. Like : 
+
+- A VESC Speedometer : [https://www.youtube.com/watch?v=x95_16zzV8s&t=29s](https://www.youtube.com/watch?v=x95_16zzV8s&t=29s)
+- Some LEDs : [https://www.youtube.com/watch?v=NQ8VI-0C18U&t=407s](https://www.youtube.com/watch?v=NQ8VI-0C18U&t=407s)
+- Tires to drive anywhere : [https://www.youtube.com/watch?v=B-Gqwqf2An0&t=306s](https://www.youtube.com/watch?v=B-Gqwqf2An0&t=306s)
+- And More …
