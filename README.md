@@ -14,7 +14,7 @@ A skateboard is composed of a board, Trucks, Wheels and Bearings and a grip. You
 
 You can fin two systems of motorisation :
 - Pulley Motor
-- In-wheel Motor
+- Hub Motor
 
 ### Pulley Motor
 
@@ -30,14 +30,14 @@ A motor drives a Belt which drives a wheel. It is an apparent system located und
 
 Caution, be careful to the compatibility of the trucks with the motor support and do not take wheels completely filled with plastic but with holes where you can screw the pulley.
 
-### In-Wheel Motors
+### Hub Motors
 
 The motor is directly integrated to the rear wheels. This system is more aesthetic because you can't see the engine. However, the rear wheels are more complicated to change and the engine can be complicated to change in case of breakage or to improve without changing the whole wheel.
-The use of two In-Wheel motors is preferable for this system unlike the pulley-motor which can be satisfied with a single motor.
+The use of two Hub motors is preferable for this system unlike the pulley-motor which can be satisfied with a single motor.
 
 | Component | Item |
 | --- | --- |
-| In-Wheel Motor | Can be found in many colors and seizes on differents sites like here : http://www.diyeboard.com/hub-motor-8352mm-450w-75kv-for-diy-electric-skateboard-p-536.html?zenid=ka8sls2lth4h54md18q2bsi2i0 |
+| Hub Motor | Can be found in many colors and seizes on differents sites like here : http://www.diyeboard.com/hub-motor-8352mm-450w-75kv-for-diy-electric-skateboard-p-536.html?zenid=ka8sls2lth4h54md18q2bsi2i0 |
 
 ## Electronic
 
