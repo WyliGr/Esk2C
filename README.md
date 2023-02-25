@@ -37,7 +37,7 @@ The use of two Hub motors is preferable for this system unlike the pulley-motor 
 
 | Component | Item |
 | --- | --- |
-| Hub Motor | Can be found in many colors and seizes on differents sites like here : http://www.diyeboard.com/hub-motor-8352mm-450w-75kv-for-diy-electric-skateboard-p-536.html?zenid=ka8sls2lth4h54md18q2bsi2i0 |
+| Hub Motor | The better are arround 75Kv. Can be found in many colors and seizes on differents sites like here : http://www.diyeboard.com/hub-motor-8352mm-450w-75kv-for-diy-electric-skateboard-p-536.html?zenid=ka8sls2lth4h54md18q2bsi2i0 |
 
 ## Electronic
 
