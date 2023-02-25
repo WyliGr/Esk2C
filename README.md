@@ -63,11 +63,11 @@ There are many ESC solutions :
 
 **vESC**
 
-They are most professional boards and use a specific software but are very expensives. They are not too complex to use and have a big users community.
+They are most professional boards and use a specific software but are very expensives. They are not plug and play and are a little bit complex to use and have a big users community.
 
 **ESC Boards**
 
-They are like the vESC board but with a different software and hardware. They are not too expensive.
+They are like the vESC board but it's plug and play and it's not customizable. They are not too expensive and simple to use.
 
 **Arduino and Raspberry ESC**
 
